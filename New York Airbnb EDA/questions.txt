@@ -1,0 +1,16 @@
+# Numerical data todo
+#   Prices todo
+#       Most expensive neighbourhood groups todo
+#       Most expensive room types todo
+#       Most expensive neighbourhood todo
+#   Reviews todo
+#       Number of reviews todo
+#           Top rated are todo
+#           top rated room type todo
+#       Reviews per month todo
+#           Conclude what rooms are being rented more often todo
+#   Average Stay todo
+#
+# Categorical data
+#
+# Map analysis
