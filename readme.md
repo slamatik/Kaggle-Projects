@@ -1,1 +1,1 @@
-This repository will include data science projects 
+This repository will include data science projects using different datasets from Kaggle
