@@ -1,8 +1,9 @@
 # Numerical data todo
 #   Prices todo
 #       Most expensive neighbourhood groups todo
-#       Most expensive room types todo
 #       Most expensive neighbourhood todo
+#       Most expensive room types todo
+#       Best place to stay within price range ??
 #   Reviews todo
 #       Number of reviews todo
 #           Top rated are todo
